@@ -1,0 +1,111 @@
+
+/********************************
+            COLOR
+********************************/
+
+.rouge{
+    color:red!important;
+}
+
+.marron{
+    color:brown;
+}
+
+.vert{
+    color: green;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.blueFb {
+    color : #3b5998;
+}
+
+.violet{
+    color : #E1306C;
+}
+
+.blanc {
+    color: white !important;
+}
+
+.alertColor{
+    color: black;
+}
+
+.bleuTurquoise{
+    color:#0cd4d2!important;
+}
+
+.noir{ 
+    color : black !important;
+}
+
+.rose{ 
+    color : rgb(223, 61, 88) !important;
+}
+
+.blue {
+    color : blue !important;
+}
+
+.jaune {
+    color : gold;
+}
+
+.blueSite {
+    color : #2d3a4b !important;
+}
+
+/*******************************
+        BACKGROUND COLOR
+*******************************/
+
+
+.backVioletFonce {
+    background-color: #603cba;
+}
+
+.backViolet {
+    background-color: #a200ff;
+}
+
+.backOrange {
+    background-color: #f47835;
+}
+
+.backRouge {
+    background-color: #d41243;
+}
+
+.backVert {
+    background-color: #8ec127;
+}
+
+.backRose {
+    background-color: #9f00a7;
+}
+
+.backBleuTurquoise {
+    background-color: #00aba9;
+}
+
+.backBleu {
+    background-color: #2d89ef;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.enGras{
+    font-weight: bold;
+}
+
+
+#valeurRetourJs{
+    display: none;
+}
+
